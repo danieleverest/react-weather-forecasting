@@ -29,7 +29,7 @@ https://the-weather-forecasting.netlify.app
 - Clone the repository:
 
 ```bash
-git clone https://github.com/Amin-Awinti/the-weather-forecasting.git
+git clone https://github.com/danieleverest/react-weather-forecasting.git
 
 ```
 
